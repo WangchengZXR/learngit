@@ -6,3 +6,5 @@ Creating a new branch is quick and simple.
 Adding merge is also easy.
 
 This is a desk modification.
+
+Let's see if there is a conflict.
